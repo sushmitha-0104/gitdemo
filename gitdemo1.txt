@@ -1,0 +1,6 @@
+This is gitdemo1 file.
+
+We have used ls, mkdir, touch, cat, vi, git init, git status commands so far!!
+
+
+
